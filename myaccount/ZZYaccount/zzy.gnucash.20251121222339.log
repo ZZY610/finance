@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	80e6906c59404c29818896846d49a16f	d370992f778643c394c5e28e6d41fc65	2025-11-21 14:25:40	2025-11-21 14:25:40	2024-08-31 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		多功能拓展坞acer				n	15800/100	15800/100	1970-01-01 00:00:00
+C	80e6906c59404c29818896846d49a16f	3a1d4931d7854bf09c08f493fc866bb5	2025-11-21 14:25:40	2025-11-21 14:25:40	2024-08-31 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		多功能拓展坞acer				n	-15800/100	-15800/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

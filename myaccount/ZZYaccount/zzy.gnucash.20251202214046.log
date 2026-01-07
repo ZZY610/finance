@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	7a06c5bcd0c34d6696d7c0c396b40059	d6be450dfc084d669f32614fc0c7c0d7	2025-12-02 13:41:18	2025-12-02 13:41:18	2025-11-29 10:59:00	4c7bf5d4c55c4a7581588066d3df08b8	电		电费100				n	10000/100	10000/100	1970-01-01 00:00:00
+C	7a06c5bcd0c34d6696d7c0c396b40059	966f2bee38e44ff79f495eb064ab651f	2025-12-02 13:41:18	2025-12-02 13:41:18	2025-11-29 10:59:00	009bbba326a84918ba422550433d1137	活期存款		电费100				n	-10000/100	-10000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

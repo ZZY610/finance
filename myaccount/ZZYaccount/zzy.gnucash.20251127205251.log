@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	f6e10f08ee4a4ed59d10e76c04e345ea	81001b94280044b8b1cb11161a53231c	2025-11-27 13:00:34	2025-11-27 13:00:33	2025-11-27 10:59:00	efa1e142c58f46dbb8027e734bd9818b	现金		现金3300				n	330000/100	330000/100	1970-01-01 00:00:00
+C	f6e10f08ee4a4ed59d10e76c04e345ea	5d5a435100ab41379b1ad9d4d9a9d9c1	2025-11-27 13:00:34	2025-11-27 13:00:33	2025-11-27 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		现金3300				n	-330000/100	-330000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	13e472b3597645bba2c976a9d895f792	f89595e7cf9247b69b8794a606d855d2	2025-11-22 12:13:44	2025-11-22 12:13:44	2024-02-27 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		打火石				n	2780/100	2780/100	1970-01-01 00:00:00
+C	13e472b3597645bba2c976a9d895f792	bd30bf5b42a844bd8efc41c5211e6c41	2025-11-22 12:13:44	2025-11-22 12:13:44	2024-02-27 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		打火石				n	-2780/100	-2780/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

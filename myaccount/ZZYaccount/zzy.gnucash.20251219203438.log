@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	add01aefe6fb4a4e9064064040076cd7	5703fa82cc274b96b28bc760c8c8f7be	2025-12-19 12:35:12	2025-12-19 12:35:12	2025-12-06 10:59:00	948843288c91401d9248b3a834309a60	伙食费		百胜咨询39				n	3900/100	3900/100	1970-01-01 00:00:00
+C	add01aefe6fb4a4e9064064040076cd7	969b109c9cea4851915b2df307dfdade	2025-12-19 12:35:12	2025-12-19 12:35:12	2025-12-06 10:59:00	009bbba326a84918ba422550433d1137	活期存款		百胜咨询39				n	-3900/100	-3900/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

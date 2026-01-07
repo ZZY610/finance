@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	5d15db9437bc4173b06ac69d1fe77c54	d52e80891e8540138705de6a591893e7	2025-11-26 10:23:15	2025-11-26 10:23:15	2025-11-26 10:59:00	009bbba326a84918ba422550433d1137	活期存款		利息0.04				n	4/100	4/100	1970-01-01 00:00:00
+C	5d15db9437bc4173b06ac69d1fe77c54	3017018adec74f5f909fa9e447722c56	2025-11-26 10:23:15	2025-11-26 10:23:15	2025-11-26 10:59:00	23427c019f2e484dbc07b048b0740dc0	活期利息		利息0.04				n	-4/100	-4/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	3e13b5c58a044be5a36477efcd08dbe2	42120272596a43c3a8beee428a4a054a	2025-11-22 08:03:20	2025-11-22 08:03:20	2025-11-11 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		简易书桌黄梨木				n	2859/100	2859/100	1970-01-01 00:00:00
+C	3e13b5c58a044be5a36477efcd08dbe2	3c5c2d6765cf420bb911290c681cad97	2025-11-22 08:03:20	2025-11-22 08:03:20	2025-11-11 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		简易书桌黄梨木				n	-2859/100	-2859/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

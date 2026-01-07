@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	b495d83b31a14278a1ef21c69fc86063	6508999237ea4135b5a66635a10fab88	2025-12-02 13:43:45	2025-12-02 13:43:45	2025-11-30 10:59:00	948843288c91401d9248b3a834309a60	伙食费		美团喜姐炸串42.8				n	4280/100	4280/100	1970-01-01 00:00:00
+C	b495d83b31a14278a1ef21c69fc86063	4d61571b226044d396229cba82925db1	2025-12-02 13:43:45	2025-12-02 13:43:45	2025-11-30 10:59:00	009bbba326a84918ba422550433d1137	活期存款		美团喜姐炸串42.8				n	-4280/100	-4280/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

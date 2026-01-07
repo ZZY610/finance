@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	e07a936ce9ad4197a01483bdd7ace071	ec315530f46843639486508d26d6e114	2025-11-22 11:47:58	2025-11-22 11:47:58	2025-08-22 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		多功能折叠刀迷你瓜果刀				n	331/100	331/100	1970-01-01 00:00:00
+C	e07a936ce9ad4197a01483bdd7ace071	1eaa6333f4d046c4adac5b4c5fa6b125	2025-11-22 11:47:58	2025-11-22 11:47:58	2025-08-22 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		多功能折叠刀迷你瓜果刀				n	-331/100	-331/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

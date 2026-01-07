@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	d1523aa3cd704e0d878e15567152ce0f	ebfcb1517d374c5d9ba8f3d3280c3bc2	2025-11-22 14:23:50	2025-11-22 14:23:50	2024-11-04 10:59:00	4fc1d8a69f7b403aa89106a51894186e	书籍		编码隐匿在计算机背后的语言				n	3650/100	3650/100	1970-01-01 00:00:00
+C	d1523aa3cd704e0d878e15567152ce0f	972beb6b0b34418595dac67c6b17753f	2025-11-22 14:23:50	2025-11-22 14:23:50	2024-11-04 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		编码隐匿在计算机背后的语言				n	-3650/100	-3650/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

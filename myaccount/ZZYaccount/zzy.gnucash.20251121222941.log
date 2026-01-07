@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	30fc31f17ae44521a9c9d3f29437768d	13b518b307424ddebf45579aaae98ac4	2025-11-21 15:02:03	2025-11-21 15:02:03	2024-02-17 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备						n	0/100	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	ea708bcf464c4808aa7a339891358fdc	75dbc2f355a54a79aaea4ca033211cb7	2025-11-21 15:02:03	2025-11-21 15:02:03	2024-02-17 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	71b715b03d304606839eebeaaa069901	4ac17d7e6af74517ab32745e4ec4d233	2025-11-22 11:38:04	2025-11-22 11:38:04	2025-09-18 10:59:00	5dac45e42e5041aa9686e50195e98314	玩具		灵魂提取器				n	340/100	340/100	1970-01-01 00:00:00
+C	71b715b03d304606839eebeaaa069901	1ddd791c1579419f9d5fad88ef7c8001	2025-11-22 11:38:04	2025-11-22 11:38:04	2025-09-18 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		灵魂提取器				n	-340/100	-340/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

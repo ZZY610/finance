@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	faa33ad9c7404bccbf968f254b4282d0	93e024abff594ade90a0aef2895593e3	2025-11-22 11:57:00	2025-11-22 11:57:00	2025-06-29 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		小米电动牙刷pro				n	14625/100	14625/100	1970-01-01 00:00:00
+C	faa33ad9c7404bccbf968f254b4282d0	f47adf349e4548268a243864e2140e23	2025-11-22 11:57:00	2025-11-22 11:57:00	2025-06-29 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		小米电动牙刷pro				n	-14625/100	-14625/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

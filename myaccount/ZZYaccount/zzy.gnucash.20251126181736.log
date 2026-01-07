@@ -1,0 +1,24 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+D	7f8569306a204988b4e9a343288d7fd9	674616c247df4ffd996eb1a80f6ef34c	2025-11-26 10:17:42	2025-11-26 10:17:42	2025-11-26 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+D	8952c9d936b74dc9bd65c37a551ef35b	03299e5866744b0192fce8acf3bab848	2025-11-26 10:17:43	2025-11-26 10:17:43	2025-11-26 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	ec7e01b1df6c40f987dfb83f06a3412e	41a9786fccb2416fb58d8be345e73ba9	2025-11-26 10:19:29	2025-11-26 10:19:29	2025-11-26 10:59:00	b719b58309f74414bbfcb399635e2a90	薪金		工资8995.71				n	-899571/100	-899571/100	1970-01-01 00:00:00
+C	ec7e01b1df6c40f987dfb83f06a3412e	24421ebc9f9f44c3826ac9785a2ab99b	2025-11-26 10:19:29	2025-11-26 10:19:29	2025-11-26 10:59:00	009bbba326a84918ba422550433d1137	活期存款		工资8995.71				n	899571/100	899571/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

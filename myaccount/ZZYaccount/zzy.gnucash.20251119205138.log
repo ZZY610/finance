@@ -1,0 +1,13 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	478b8e74488646659b50360e70708ed8	d7cc2124afc1498cb4bde389e3122219	2025-11-19 13:22:35	2025-11-19 13:22:35	2025-11-03 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	9062f70283f14f7ab17e65badc23c613	8abef1dd46b1432ca322555eb9dd919d	2025-11-19 13:24:26	2025-11-19 13:24:26	2025-10-06 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电		小米电吹风				n	8510/100	8510/100	1970-01-01 00:00:00
+C	9062f70283f14f7ab17e65badc23c613	417a319d26c0496697251fb631988660	2025-11-19 13:24:26	2025-11-19 13:24:26	2025-10-06 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		小米电吹风				n	-8510/100	-8510/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

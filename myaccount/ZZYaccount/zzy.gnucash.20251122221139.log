@@ -1,0 +1,16 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+C	71ba69aa734f4483ad0a19b92d19a4ea	493a56c81e86436b87e5fa7bd395c4f5	2025-11-22 14:15:31	2025-11-22 14:15:31	2025-10-27 10:59:00	5dac45e42e5041aa9686e50195e98314	玩具		跳蛋成人玩具				n	10800/100	10800/100	1970-01-01 00:00:00
+C	71ba69aa734f4483ad0a19b92d19a4ea	a811abbe497a4694a9cdd76269e5c3a2	2025-11-22 14:15:31	2025-11-22 14:15:31	2025-10-27 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		跳蛋成人玩具				n	-10800/100	-10800/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

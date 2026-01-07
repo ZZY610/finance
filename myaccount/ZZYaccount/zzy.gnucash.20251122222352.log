@@ -1,0 +1,14 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	36a3d1f2c7d240bba76150bcf589f8e6	66626b595e19434bae002d5dd06433e4	2025-11-22 14:31:06	2025-11-22 14:31:06	2025-11-22 10:59:00	009bbba326a84918ba422550433d1137	活期存款		小象超市退款0.93				n	75/100	75/100	1970-01-01 00:00:00
+C	36a3d1f2c7d240bba76150bcf589f8e6	ec82dd0b59844b48b42a66e1e4741a8a	2025-11-22 14:31:06	2025-11-22 14:31:06	2025-11-22 10:59:00	6d623026e2ba482e841c4f0e051820a8	礼品		小象超市退款0.93				n	-75/100	-75/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	07590a06fad64bb29057d2068abfa4aa	791013506c8e4313bb9accca35fdac7b	2025-11-22 14:31:12	2025-11-22 14:31:12	2024-07-30 10:59:00	61cc2baeee3344bfbb1f655522a3495a	衣物		森马工装裤白色				n	8090/100	8090/100	1970-01-01 00:00:00
+C	07590a06fad64bb29057d2068abfa4aa	8ddcae10df8d47b4accf8a8541fd4ea3	2025-11-22 14:31:12	2025-11-22 14:31:12	2024-07-30 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		森马工装裤白色				n	-8090/100	-8090/100	1970-01-01 00:00:00
+===== END

@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	7fbef70194c54d8787a74d1a59b3f087	dd9713c49cee45b69a309f278776a34b	2025-11-22 11:36:21	2025-11-22 11:36:21	2025-09-28 10:59:00	5dac45e42e5041aa9686e50195e98314	玩具		洛天依甜蜜等待手办				n	5148/100	5148/100	1970-01-01 00:00:00
+C	7fbef70194c54d8787a74d1a59b3f087	9827451f6ca84787983f4311c1d4bf21	2025-11-22 11:36:21	2025-11-22 11:36:21	2025-09-28 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		洛天依甜蜜等待手办				n	-5148/100	-5148/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

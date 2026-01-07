@@ -1,0 +1,18 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+C	280124bfc71647a5a01bfc41472ddfe6	aa02d9c091224ce0a0c72e96a32b22b2	2025-11-21 14:12:08	2025-11-21 14:12:08	2025-11-02 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		罗技pebble静音鼠标				n	9405/100	9405/100	1970-01-01 00:00:00
+C	280124bfc71647a5a01bfc41472ddfe6	0ce790b65f344172b442605c962aa491	2025-11-21 14:12:08	2025-11-21 14:12:08	2025-11-02 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		罗技pebble静音鼠标				n	-9405/100	-9405/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	0c286f548c404df39e8a627d1d79876d	0bc6e12b90654675b3d2cc1098d4c190	2025-11-21 14:13:21	2025-11-21 14:13:21	2025-10-11 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		XBOX手柄				n	33669/100	33669/100	1970-01-01 00:00:00
+C	0c286f548c404df39e8a627d1d79876d	b75a07d0936b4231bc3c8816437dbe08	2025-11-21 14:13:21	2025-11-21 14:13:21	2025-10-11 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		XBOX手柄				n	-33669/100	-33669/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

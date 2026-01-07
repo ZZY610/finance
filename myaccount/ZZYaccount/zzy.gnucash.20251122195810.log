@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	f375b4bdc28244c48b856f9408017ba8	2b4cc9c578534acaab90bfcb9182d200	2025-11-22 11:58:50	2025-11-22 11:58:50	2025-04-16 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		iPad mini7保护壳				n	7800/100	7800/100	1970-01-01 00:00:00
+C	f375b4bdc28244c48b856f9408017ba8	c6a16f5c445e41fd87a8b6d8208aab84	2025-11-22 11:58:50	2025-11-22 11:58:50	2025-04-16 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		iPad mini7保护壳				n	-7800/100	-7800/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

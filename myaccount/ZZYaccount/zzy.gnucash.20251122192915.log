@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	9fb92a4ed8744136a820bb27a02ddaaa	a2742c1c5e4e4e4d8c0f6c4918633ee6	2025-11-22 11:35:32	2025-11-22 11:35:32	2025-10-19 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		盆栽				n	2680/100	2680/100	1970-01-01 00:00:00
+C	9fb92a4ed8744136a820bb27a02ddaaa	579b31e0e2ab46f2af811e36dddf7048	2025-11-22 11:35:32	2025-11-22 11:35:32	2025-10-19 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		盆栽				n	-2680/100	-2680/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

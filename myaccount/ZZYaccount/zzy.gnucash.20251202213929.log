@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	0d9bac91f864455aafedaaf4f016eacc	c28b81facdde429da1c8b49bd92ebc29	2025-12-02 13:40:46	2025-12-02 13:40:46	2025-11-29 10:59:00	188a034713d642ecb4674117c3db1b1f	电影		电影疯狂动物城2				n	11180/100	11180/100	1970-01-01 00:00:00
+C	0d9bac91f864455aafedaaf4f016eacc	cf617159dd8d4f5688cac2876b065ede	2025-12-02 13:40:46	2025-12-02 13:40:46	2025-11-29 10:59:00	009bbba326a84918ba422550433d1137	活期存款		电影疯狂动物城2				n	-11180/100	-11180/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

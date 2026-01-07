@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	ccff9619ebb5499b84a3d2fb45986e8d	4412a95583f948d4bbae687c4648d723	2025-11-21 14:20:53	2025-11-21 14:20:53	2025-09-16 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		CHAOFANJI背包				n	27900/100	27900/100	1970-01-01 00:00:00
+C	ccff9619ebb5499b84a3d2fb45986e8d	ed5a6612fb704c658e1c51319ca29939	2025-11-21 14:20:53	2025-11-21 14:20:53	2025-09-16 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		CHAOFANJI背包				n	-27900/100	-27900/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

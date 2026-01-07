@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	f3ba713d51fb427bbd96ecf30cc48739	bedfed9898244881810187cda09c6852	2025-11-22 08:05:06	2025-11-22 08:05:06	2025-11-03 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		简易出租房折叠桌				n	8400/100	8400/100	1970-01-01 00:00:00
+C	f3ba713d51fb427bbd96ecf30cc48739	764732ab282349cc8a4925ec0ca89537	2025-11-22 08:05:06	2025-11-22 08:05:06	2025-11-03 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		简易出租房折叠桌				n	-8400/100	-8400/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	2142d05eed8f44319e8474238fe2b146	d75e450414944afe83ba957fe0bb8c0b	2025-11-22 07:29:32	2025-11-22 07:29:32	2025-11-11 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		懒人靠背椅子床上座椅拼多多				n	7600/100	7600/100	1970-01-01 00:00:00
+C	2142d05eed8f44319e8474238fe2b146	ac110b405d2a4e94939cb86220037d23	2025-11-22 07:29:32	2025-11-22 07:29:32	2025-11-11 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		懒人靠背椅子床上座椅拼多多				n	-7600/100	-7600/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

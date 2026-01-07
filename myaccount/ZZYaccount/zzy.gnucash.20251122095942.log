@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	02fa86cbf5c640fba4e469ac2d41e17a	f63e988d66c24c48b01f3fc93bfc7ef3	2025-11-22 07:01:15	2025-11-22 07:01:15	2025-11-22 10:59:00	35149f5d194c47f287c5a3cf8b53b7b2	其他应收款		借给张硕4000元				n	400000/100	400000/100	1970-01-01 00:00:00
+C	02fa86cbf5c640fba4e469ac2d41e17a	e30b9b3b29084992832dbc2f6b219e71	2025-11-22 07:01:15	2025-11-22 07:01:15	2025-11-22 10:59:00	009bbba326a84918ba422550433d1137	活期存款		借给张硕4000元				n	-400000/100	-400000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

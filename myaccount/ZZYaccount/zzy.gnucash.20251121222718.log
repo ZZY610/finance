@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	ed6895fd44da437f86df1632d0444c21	82e79d2c3f494f909de678119d1f3153	2025-11-21 14:28:46	2025-11-21 14:28:46	2024-04-11 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		迪卡侬自行车				n	87414/100	87414/100	1970-01-01 00:00:00
+C	ed6895fd44da437f86df1632d0444c21	cb237f83e0184e6da5daa443208f9360	2025-11-21 14:28:46	2025-11-21 14:28:46	2024-04-11 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		迪卡侬自行车				n	-87414/100	-87414/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

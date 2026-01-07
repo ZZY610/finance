@@ -1,0 +1,14 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	00cd81d96b874446b211aa62ab1518ae	acd9c9a1db8542e8a2c773cf5e0e2bfd	2025-11-22 14:18:28	2025-11-22 14:18:28	2025-02-20 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		致态zhitaiplus 1tb固态硬盘				n	0/100	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	00cd81d96b874446b211aa62ab1518ae	acd9c9a1db8542e8a2c773cf5e0e2bfd	2025-11-22 14:18:50	2025-11-22 14:18:28	2025-02-20 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		致态zhitaiplus 1tb固态硬盘				n	0/100	0/100	1970-01-01 00:00:00
+===== END
+===== START
+C	00cd81d96b874446b211aa62ab1518ae	acd9c9a1db8542e8a2c773cf5e0e2bfd	2025-11-22 14:18:50	2025-11-22 14:18:28	2025-02-20 10:59:00	9157011e74b24eb0bbcf84c24436c996	电子设备		致态zhitaiplus 1tb固态硬盘				n	39400/100	39400/100	1970-01-01 00:00:00
+C	00cd81d96b874446b211aa62ab1518ae	52b7dab7ef9e4f3fb6197d7b423af571	2025-11-22 14:18:50	2025-11-22 14:18:28	2025-02-20 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		致态zhitaiplus 1tb固态硬盘				n	-39400/100	-39400/100	1970-01-01 00:00:00
+===== END

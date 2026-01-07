@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	c8cc6aab98694d1c9ff9a7e2d21e4970	f3fb9b37138946e5a71b57b0019f7191	2025-11-21 14:19:11	2025-11-21 14:19:11	2025-09-16 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		杜克螺丝刀E3				n	16100/100	16100/100	1970-01-01 00:00:00
+C	c8cc6aab98694d1c9ff9a7e2d21e4970	d466ae05c85944fa9eda6d5995140dc7	2025-11-21 14:19:11	2025-11-21 14:19:11	2025-09-16 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		杜克螺丝刀E3				n	-16100/100	-16100/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

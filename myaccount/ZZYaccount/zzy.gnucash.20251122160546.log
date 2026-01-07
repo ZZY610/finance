@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	2e16dea88d284b6fae3dc6157b0c6f3e	c7a70e6cc19c4325b988b68ada93efa7	2025-11-22 11:29:14	2025-11-22 11:29:14	2025-11-22 10:59:00	6d623026e2ba482e841c4f0e051820a8	礼品		小象超市42.44崔晶晶				n	4244/100	4244/100	1970-01-01 00:00:00
+C	2e16dea88d284b6fae3dc6157b0c6f3e	f569844b1975444899ad457a0fbd2c9f	2025-11-22 11:29:14	2025-11-22 11:29:14	2025-11-22 10:59:00	009bbba326a84918ba422550433d1137	活期存款		小象超市42.44崔晶晶				n	-4244/100	-4244/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

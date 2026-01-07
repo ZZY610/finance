@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	cd2950c6706141cbbf5f979290066a81	e10d5d80cc1b4d88ae91666b4f8c2521	2025-12-02 13:50:54	2025-12-02 13:50:54	2025-12-02 10:59:00	948843288c91401d9248b3a834309a60	伙食费		午餐7.79				n	779/100	779/100	1970-01-01 00:00:00
+C	cd2950c6706141cbbf5f979290066a81	1fdf7bebb69843908b3ea7909004f3eb	2025-12-02 13:50:54	2025-12-02 13:50:54	2025-12-02 10:59:00	009bbba326a84918ba422550433d1137	活期存款		午餐7.79				n	-779/100	-779/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

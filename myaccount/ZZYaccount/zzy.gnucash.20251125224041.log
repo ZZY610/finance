@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	6829f92d5ccf4ac5b56ecabc9e16a35d	00a78ce4a9e74cd797a69473fcba4977	2025-11-25 14:41:23	2025-11-25 14:41:23	2025-11-25 10:59:00	61cd7dd02fe945238554843247463615	房租		房租1920				n	192000/100	192000/100	1970-01-01 00:00:00
+C	6829f92d5ccf4ac5b56ecabc9e16a35d	ec1a991020b24aff9d00dc26c7f44438	2025-11-25 14:41:23	2025-11-25 14:41:23	2025-11-25 10:59:00	009bbba326a84918ba422550433d1137	活期存款		房租1920				n	-192000/100	-192000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

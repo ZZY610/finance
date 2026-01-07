@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	6e1090fb7267402a817c1b80692b24ba	a24f682c5400455c91fbc4fe0e93f18d	2025-11-22 07:09:54	2025-11-22 07:09:54	2025-11-22 10:59:00	968aeff5afe84a1996010f8bd4370ec6	工具		便携晾衣杆拼多多				n	4980/100	4980/100	1970-01-01 00:00:00
+C	6e1090fb7267402a817c1b80692b24ba	3f84f97efb1042b8a65c76ec7195bab6	2025-11-22 07:09:54	2025-11-22 07:09:54	2025-11-22 10:59:00	009bbba326a84918ba422550433d1137	活期存款		便携晾衣杆拼多多				n	-4980/100	-4980/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

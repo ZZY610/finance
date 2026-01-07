@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	8a41636de6e143ac97eff289a1a7e740	f026f8b083fb4cdab32d2049d978419b	2025-11-22 08:02:12	2025-11-22 08:02:12	2025-11-11 10:59:00	f1d018472f184c4d8fb025b140d1608e	家电 家具		脏衣篮				n	1980/100	1980/100	1970-01-01 00:00:00
+C	8a41636de6e143ac97eff289a1a7e740	67c5e679510844b4a02bb96d79185eac	2025-11-22 08:02:12	2025-11-22 08:02:12	2025-11-11 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		脏衣篮				n	-1980/100	-1980/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

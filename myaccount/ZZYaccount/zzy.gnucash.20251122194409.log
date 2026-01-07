@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	6b93fe3ecd5148db888aad39dcd3eb55	052219a4e692431aa386c880c58e4ae0	2025-11-22 11:45:20	2025-11-22 11:45:20	2025-09-06 10:59:00	5dac45e42e5041aa9686e50195e98314	玩具		30个ins胸针日系卡通玩具				n	799/100	799/100	1970-01-01 00:00:00
+C	6b93fe3ecd5148db888aad39dcd3eb55	cbbd40baf65d4f1d85fe39dddabb0a5c	2025-11-22 11:45:20	2025-11-22 11:45:20	2025-09-06 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		30个ins胸针日系卡通玩具				n	-799/100	-799/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

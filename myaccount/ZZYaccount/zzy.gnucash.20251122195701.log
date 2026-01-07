@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	0b2f662dd0a7415eaf92487d8b695a06	ab24366ab7184d3c84d80636ad442d47	2025-11-22 11:58:09	2025-11-22 11:58:09	2025-05-17 10:59:00	61cc2baeee3344bfbb1f655522a3495a	衣物		安踏运动鞋				n	23900/100	23900/100	1970-01-01 00:00:00
+C	0b2f662dd0a7415eaf92487d8b695a06	968717a503124bc7aeda7819e6351d9d	2025-11-22 11:58:09	2025-11-22 11:58:09	2025-05-17 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		安踏运动鞋				n	-23900/100	-23900/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

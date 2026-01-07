@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	970404af95f144ccb9180789de3dba08	e0dab1ad96924632a161e5fdcb73c048	2025-11-22 11:52:29	2025-11-22 11:52:29	2025-08-08 10:59:00	61cc2baeee3344bfbb1f655522a3495a	衣物		安踏男士运动速干衣				n	9900/100	9900/100	1970-01-01 00:00:00
+C	970404af95f144ccb9180789de3dba08	4d67ab3e8e0e46aaa29376e6ecc96931	2025-11-22 11:52:29	2025-11-22 11:52:29	2025-08-08 10:59:00	3627b63d8f264acaaa94eb1c0400e0e6	期初余额		安踏男士运动速干衣				n	-9900/100	-9900/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
